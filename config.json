@@ -1,0 +1,17 @@
+{
+	"ownerid": "289147939165700098",
+	"owner_id": "289147939165700098",
+	"modrolename": "Modo",
+	"adminrolename": "Admin",
+	"prefix": "!",
+	"rvotes": "99",
+	"token": "NTE0NDcyOTIzOTU2NzcyODY3.XVyDog.zcXIom1Yxq4PFB769Xj72xLr0OU",
+	"red": "#b70000",
+	"orange": "#ff6a00",
+	"green": "#00ff26",
+	"purple": "#d604cf",
+  	"status": "ONLINE",
+ 	"configRev": "0.1.5",
+ 	"language" : "fr",
+  	"language_comments" : "en"
+}
